@@ -1,4 +1,4 @@
-# Website Type Classification — NLP Project
+# Website Page Classification — NLP Project
 
 > **Classifying web pages into 7 structural categories using TF-IDF, Latent Semantic Analysis, and HTML structural signals — achieving 97.1% accuracy with LinearSVC on held-out data.**
 
